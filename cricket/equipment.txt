@@ -1,0 +1,8 @@
+bat
+ball
+gloves
+pad
+stumps
+bails
+helmet
+
